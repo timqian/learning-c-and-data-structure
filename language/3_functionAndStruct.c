@@ -13,4 +13,3 @@ int main() {
   printf("%.2lf", dist(a, b));
   return 0;
 }
-
